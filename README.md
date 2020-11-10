@@ -3,7 +3,7 @@
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby, Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
-- 💬 Ask me about Software Development, Games and Mechanical Engineering
+- 💬 Ask me about Software Development and Games
 - 📫 How to reach me: [Twitter](https://twitter.com/haywhizz), [Linkedin](https://www.linkedin.com/in/oyelekeayomide)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just out here trying to create something iconic and making the world a better place.
